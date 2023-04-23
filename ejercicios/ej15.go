@@ -7,5 +7,6 @@ package ejercicios
 // Se pide implementar un algoritmo de división y conquista de orden
 // O(log n) que encuentre la posición p del pico.
 func Pico(arreglo []int) int {
+
 	panic("Not implemented")
 }
